@@ -30,6 +30,12 @@ An optimal control problem is then defined with an objective function to minimiz
 
 The script uses CasADi's interface to the Ipopt solver to solve this optimal control problem.
 
+## Vehicle Model
+![image](https://github.com/lzlbadguy/Basic-MPC-for-a-dynamic-vehicle-model/assets/54171457/54d034d4-1763-4502-8f3f-220543c7df10)
+![image](https://github.com/lzlbadguy/Basic-MPC-for-a-dynamic-vehicle-model/assets/54171457/383d79d7-7721-4e78-b168-457c5f88bdbd)
+![image](https://github.com/lzlbadguy/Basic-MPC-for-a-dynamic-vehicle-model/assets/54171457/5f8c1265-e9f7-4ced-bc44-c29f5980dfca)
+
+
 ## Simulation and Results
 The script then simulates the vehicle's motion over a predefined time, using the computed optimal controls. The state history, control history, and time history are recorded.
 
