@@ -9,8 +9,6 @@ The script involves building a nonlinear programming problem, solving the optimi
 The script depends on the following Python libraries:
 - CasADi
 - Numpy
-- Math
-- Time
 - Matplotlib
 
 ## Details
